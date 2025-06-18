@@ -13,8 +13,7 @@ https://docs.google.com/presentation/d/18HqN-U1gdqz56DoOzk3Z_0dnhNXI4gXOP1pQziC_
 
 *Data*
 
-Anonymized annotated data link:
-|cluster link|
+Anonymized annotated data: In this repo, called cleaned_data.tsv
 
 *Label Studio*
 
