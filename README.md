@@ -13,8 +13,11 @@ https://docs.google.com/presentation/d/18HqN-U1gdqz56DoOzk3Z_0dnhNXI4gXOP1pQziC_
 
 *Data*
 
+Anonymized annotated data link:
 |cluster link|
 
 *Label Studio*
 
+Annotation link:
+https://quest.ms.mff.cuni.cz/workshop-heidelberg/
 
