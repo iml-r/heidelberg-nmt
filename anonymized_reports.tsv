@@ -1,2 +1,9 @@
 report_id	annotator_English	annotator_German	diagnosis_English	diagnosis_German
-0P10090238471000	1	2	Fracture of femur, Fracture of lower leg, including ankle	Pneumothorax
+0P10087619283000	2	1	Pneumothorax	Healthy
+0P10087641883000	2	1	Pneumothorax	Healthy
+0P10087663944000	2	1	Pneumothorax	Low bone mass disorders
+0P10087673761000	2	1	Fracture of unspecified body region	Healthy
+0P10090238471000	2	1	Pneumothorax	Pneumothorax
+0P10091208100000	2	1	Fracture of unspecified body region	Healthy
+0P10091379512000	2	1	Pneumothorax	Fracture of unspecified body region
+0P10091548708000	2	1	Pneumonia	Emphysema
