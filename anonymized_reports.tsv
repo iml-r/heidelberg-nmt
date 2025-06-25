@@ -1,9 +1,37 @@
 report_id	annotator_English	annotator_German	diagnosis_English	diagnosis_German
-0P10087619283000	2	1	Pneumothorax	Healthy
-0P10087641883000	2	1	Pneumothorax	Healthy
-0P10087663944000	2	1	Pneumothorax	Low bone mass disorders
-0P10087673761000	2	1	Fracture of unspecified body region	Healthy
-0P10090238471000	2	1	Pneumothorax	Pneumothorax
-0P10091208100000	2	1	Fracture of unspecified body region	Healthy
-0P10091379512000	2	1	Pneumothorax	Fracture of unspecified body region
-0P10091548708000	2	1	Pneumonia	Emphysema
+0P10087274932000	18	15	Pneumonia	Healthy
+0P10087451436000	10	13	Fluid overload	Pleural effusion
+0P10087451447000	18	15	Healthy	Pleural effusion
+0P10087490536000	10	13	Fracture at wrist or hand level, Fracture of forearm	Fracture at wrist or hand level
+0P10087510626000	18	15	Pneumothorax	Pleural effusion
+0P10087619283000	5	13	Fracture of unspecified body region	Fracture at wrist or hand level
+0P10087641883000	5	13	Fracture of lower leg, including ankle, Other	Other
+0P10087656469000	8	17	Fluid overload	Fracture of lower leg, including ankle
+0P10087663944000	5	13	Fracture of unspecified body region	Fracture of lumbar spine or pelvis
+0P10087673761000	5	13	Fracture of unspecified body region, Low bone mass disorders	Fracture of femur
+0P10087676176000	10	13	Fracture of forearm, Low bone mass disorders	Other
+0P10087747788000	18	15	Healthy	Other
+0P10088264123000	10	13	Healthy	Fracture at wrist or hand level
+0P10088633247000	12	11	Pleural effusion	Cardiomegaly, Fluid overload
+0P10088777314000	12	11	Other	Healthy
+0P10088806543000	18	15	Healthy	Low bone mass disorders
+0P10089260626000	10	13	Healthy	Fracture at wrist or hand level
+0P10089692518000	12	11	Other	Healthy
+0P10089752092000	10	13	Healthy	Other
+0P10090238471000	5	13	Healthy	Pneumonia
+0P10090567538000	10	13	Cardiomegaly	Other
+0P10090587105000	10	13	Low bone mass disorders	Other
+0P10090665718000	8	17	Pneumonia	Cardiomegaly
+0P10090730644000	8	17	Fracture of femur	Cardiomegaly
+0P10090757668000	8	17	Fracture of lumbar spine or pelvis	Fluid overload
+0P10090782227000	8	17	Low bone mass disorders	Cardiomegaly
+0P10090785717000	12	11	Other	Healthy
+0P10090836029000	18	15	Pneumonia	Healthy
+0P10090867341000	8	17	Fracture of lower leg, including ankle	Fracture of rib, sternum or thoracic spine
+0P10090967020000	8	17	Pleural effusion	Fracture of shoulder or upper arm
+0P10090995600000	8	17	Fracture of femur	Cardiomegaly
+0P10091208100000	5	13	Healthy	Fracture at wrist or hand level
+0P10091213733000	12	11	Pleural effusion	Other, Pleural effusion
+0P10091267464000	18	15	Healthy	Other
+0P10091379512000	5	13	Other	Other
+0P10091576161000	18	15	Pneumonia	Other
