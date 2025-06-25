@@ -9,7 +9,7 @@ Theory slides:
 Practical slides:
 [https://docs.google.com/presentation/d/18HqN-U1gdqz56DoOzk3Z_0dnhNXI4gXOP1pQziC_NVY/edit?usp=sharing](https://docs.google.com/presentation/d/18HqN-U1gdqz56DoOzk3Z_0dnhNXI4gXOP1pQziC_NVY/edit?usp=sharing)
 
-Organization spreadsheet:
+Organization spreadsheet + label explanations:
 [https://docs.google.com/spreadsheets/d/17H3dxLnWugpMYFxhqGrsz3bBfefHUCPy916EZSaovrA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17H3dxLnWugpMYFxhqGrsz3bBfefHUCPy916EZSaovrA/edit?usp=sharing)
 
 Annotation environment link:
